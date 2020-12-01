@@ -1,0 +1,19 @@
+body {
+  background-color:#fef9e7 
+}
+h1 {
+  color:#1a5276; 
+  font-family:"Times New Roman";
+}
+p {
+  color:#5d6d7e;
+  font-style:regular;
+  font-family:"Arial";
+  
+}
+.destacado {
+  color: #2e86c1 ;
+  font-style:italic;
+  font-size: 18px;
+ 
+}
